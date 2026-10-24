@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "tower defense.slnx"
+    "dotnet.defaultSolution": "tower-defense-MIDTERMS.slnx"
 }
